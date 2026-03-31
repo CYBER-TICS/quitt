@@ -1,0 +1,12 @@
+path: dataset
+train: train/images
+val: valid/images
+test: test/images
+
+nc: 4
+names:
+  - target_drone
+  - human
+  - plane
+  - helicopter
+  - car

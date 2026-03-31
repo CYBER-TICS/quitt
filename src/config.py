@@ -1,0 +1,7 @@
+MODEL_PATH = "models/checkpoints/best.pt"
+CAMERA_SOURCE = 0
+CONF_THRESHOLD = 0.40
+IMG_SIZE = 640
+
+ALERT_PERSISTENCE_FRAMES = 5
+TARGET_CLASS_NAME = "target_drone"
